@@ -1,0 +1,6 @@
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.csproj.AssemblyReference.cache
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.Form1.resources
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.csproj.GenerateResource.cache
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.AssemblyInfoInputs.cache
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.AssemblyInfo.cs
+C:\Users\migra\source\repos\bindingtest\bindingtest\obj\Debug\netcoreapp3.1\bindingtest.csproj.CoreCompileInputs.cache
